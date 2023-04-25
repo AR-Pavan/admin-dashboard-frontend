@@ -1,3 +1,34 @@
+<!-- Description -->
+## Description
+
+A beautiful admin dashboard application that gathers data from the backend and displays the data using charts and dashboards.
+<!-- Built With -->
+## Built with
+<div id="badges">
+  <img src="https://img.shields.io/badge/-formik-red?style=for-the-badge&logo=formik&logoColor=white" alt="Formik"/>
+  <img src="https://img.shields.io/badge/-react-lightblue?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/-Redux-violet?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
+  <img src="https://img.shields.io/badge/-Material UI-blue?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI Badge"/>
+  <img src="https://img.shields.io/badge/-Nivo-orange?style=for-the-badge&logo=nivo&logoColor=white" alt="Nivo Badge"/>
+  
+  
+</div>
+
+<!-- Links -->
+## Links
+Back-End Part - https://github.com/AR-Pavan/admin-dashboard-backend
+
+Deployed Site - https://grand-cranachan-73fecf.netlify.app/dashboard
+
+
+<!-- CONTACT -->
+
+## Contact
+
+Annam Raghu Pavan - raghupavanannam@gmail.com
+
+Portfolio - https://raghupavan-annam-portfolio.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
